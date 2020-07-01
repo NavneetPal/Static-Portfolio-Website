@@ -1,0 +1,61 @@
+.section_subtitle
+{   margin-top: 40px;
+    font-family:'Oswald',sans-serif;
+    font-size:12px;
+    font-weight: 400;
+    color:#72728c;
+    line-height:0.75;
+    text-transform:uppercase;
+    letter-spacing: 0.25em;
+}
+.sectiontitle
+{
+    color:#181818;
+    margin-top: 26px;
+}
+.jumbotron-fluid
+{
+    background-image: url(../imgs/home_slider.jpg );
+    background-size: cover;
+    background-position: center;
+}
+.why .section_subtitle,
+.why .sectiontitle
+{
+    color:white;
+}
+
+.why{
+    margin-top:28px;
+}
+.ima
+{
+    height:400px;
+}
+.why .form-control
+{
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+.why .btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.fresh-content
+{
+    background:linear-gradient(-45deg,#ec5252,#6e1a52);
+}
+
+.btn-primary {
+    color: #FFF;
+    background-color: #007791;
+    border: 1px solid transparent;
+}
+.new
+{
+    background-image: url(../imgs/why.jpg);
+    background-position: center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
